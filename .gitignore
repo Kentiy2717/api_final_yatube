@@ -122,6 +122,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.migrations
 .dmypy.json
 dmypy.json
 
@@ -148,3 +149,4 @@ dmypy.json
 # папки со статикой и медиа
 media/
 yatube_api/posts/static/
+yatube_api/posts/migrations/
